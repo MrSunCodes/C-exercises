@@ -1,0 +1,10 @@
+F:\C#\密码输入和显示练习\密码输入和显示练习\bin\Debug\密码输入和显示练习.exe.config
+F:\C#\密码输入和显示练习\密码输入和显示练习\bin\Debug\密码输入和显示练习.exe
+F:\C#\密码输入和显示练习\密码输入和显示练习\bin\Debug\密码输入和显示练习.pdb
+F:\C#\密码输入和显示练习\密码输入和显示练习\obj\Debug\密码输入和显示练习.csprojAssemblyReference.cache
+F:\C#\密码输入和显示练习\密码输入和显示练习\obj\Debug\密码输入和显示练习.Form1.resources
+F:\C#\密码输入和显示练习\密码输入和显示练习\obj\Debug\密码输入和显示练习.Properties.Resources.resources
+F:\C#\密码输入和显示练习\密码输入和显示练习\obj\Debug\密码输入和显示练习.csproj.GenerateResource.cache
+F:\C#\密码输入和显示练习\密码输入和显示练习\obj\Debug\密码输入和显示练习.csproj.CoreCompileInputs.cache
+F:\C#\密码输入和显示练习\密码输入和显示练习\obj\Debug\密码输入和显示练习.exe
+F:\C#\密码输入和显示练习\密码输入和显示练习\obj\Debug\密码输入和显示练习.pdb

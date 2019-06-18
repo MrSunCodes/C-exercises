@@ -1,0 +1,12 @@
+F:\C#\实验第三章\实验第三章\bin\Debug\实验第三章.exe.config
+F:\C#\实验第三章\实验第三章\bin\Debug\实验第三章.exe
+F:\C#\实验第三章\实验第三章\bin\Debug\实验第三章.pdb
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.csprojAssemblyReference.cache
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.Form1.resources
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.Properties.Resources.resources
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.csproj.GenerateResource.cache
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.csproj.CoreCompileInputs.cache
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.exe
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.pdb
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.Form2.resources
+F:\C#\实验第三章\实验第三章\obj\Debug\实验第三章.Form_temp.resources

@@ -1,0 +1,9 @@
+F:\C#\实验第五章\实验第五章\bin\Debug\实验第五章.exe.config
+F:\C#\实验第五章\实验第五章\bin\Debug\实验第五章.exe
+F:\C#\实验第五章\实验第五章\bin\Debug\实验第五章.pdb
+F:\C#\实验第五章\实验第五章\obj\Debug\实验第五章.csprojAssemblyReference.cache
+F:\C#\实验第五章\实验第五章\obj\Debug\实验第五章.csproj.CoreCompileInputs.cache
+F:\C#\实验第五章\实验第五章\obj\Debug\实验第五章.exe
+F:\C#\实验第五章\实验第五章\obj\Debug\实验第五章.pdb
+F:\C#\实验第五章\实验第五章\obj\Debug\实验第五章.Form1.resources
+F:\C#\实验第五章\实验第五章\obj\Debug\实验第五章.csproj.GenerateResource.cache

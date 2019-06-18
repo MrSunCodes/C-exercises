@@ -1,0 +1,10 @@
+F:\C#\实验第六章\实验第六章\bin\Debug\实验第六章.exe.config
+F:\C#\实验第六章\实验第六章\bin\Debug\实验第六章.exe
+F:\C#\实验第六章\实验第六章\bin\Debug\实验第六章.pdb
+F:\C#\实验第六章\实验第六章\obj\Debug\实验第六章.Form1.resources
+F:\C#\实验第六章\实验第六章\obj\Debug\实验第六章.Properties.Resources.resources
+F:\C#\实验第六章\实验第六章\obj\Debug\实验第六章.csproj.GenerateResource.cache
+F:\C#\实验第六章\实验第六章\obj\Debug\实验第六章.csproj.CoreCompileInputs.cache
+F:\C#\实验第六章\实验第六章\obj\Debug\实验第六章.exe
+F:\C#\实验第六章\实验第六章\obj\Debug\实验第六章.pdb
+F:\C#\实验第六章\实验第六章\obj\Debug\实验第六章.csprojAssemblyReference.cache

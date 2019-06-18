@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CScore>
+  <StuID>
+    <name>zhangsan</name>
+    <score>86</score>
+  </StuID>
+  <StuID>
+    <name>lisi</name>
+    <score>87</score>
+  </StuID>
+  <StuID>
+    <name>wangwu</name>
+    <score>87</score>
+  </StuID>
+  <StuID>
+    <name>liuqi</name>
+    <score>88</score>
+  </StuID>
+  <StuID>
+    <name>zhangba</name>
+    <score>87</score>
+  </StuID>
+</CScore>

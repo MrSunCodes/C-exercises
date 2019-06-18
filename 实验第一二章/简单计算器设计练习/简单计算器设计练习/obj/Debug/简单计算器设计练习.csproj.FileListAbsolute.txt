@@ -1,0 +1,9 @@
+F:\C#\简单计算器设计练习\简单计算器设计练习\bin\Debug\简单计算器设计练习.exe.config
+F:\C#\简单计算器设计练习\简单计算器设计练习\bin\Debug\简单计算器设计练习.exe
+F:\C#\简单计算器设计练习\简单计算器设计练习\bin\Debug\简单计算器设计练习.pdb
+F:\C#\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.Form1.resources
+F:\C#\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.Properties.Resources.resources
+F:\C#\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.csproj.GenerateResource.cache
+F:\C#\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.csproj.CoreCompileInputs.cache
+F:\C#\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.exe
+F:\C#\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.pdb

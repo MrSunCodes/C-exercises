@@ -1,0 +1,10 @@
+F:\C#\实验第六章\XML文档查询\bin\Debug\XML文档查询.exe.config
+F:\C#\实验第六章\XML文档查询\bin\Debug\XML文档查询.exe
+F:\C#\实验第六章\XML文档查询\bin\Debug\XML文档查询.pdb
+F:\C#\实验第六章\XML文档查询\obj\Debug\XML文档查询.csprojAssemblyReference.cache
+F:\C#\实验第六章\XML文档查询\obj\Debug\XML文档查询.Form1.resources
+F:\C#\实验第六章\XML文档查询\obj\Debug\XML文档查询.Properties.Resources.resources
+F:\C#\实验第六章\XML文档查询\obj\Debug\XML文档查询.csproj.GenerateResource.cache
+F:\C#\实验第六章\XML文档查询\obj\Debug\XML文档查询.csproj.CoreCompileInputs.cache
+F:\C#\实验第六章\XML文档查询\obj\Debug\XML文档查询.exe
+F:\C#\实验第六章\XML文档查询\obj\Debug\XML文档查询.pdb

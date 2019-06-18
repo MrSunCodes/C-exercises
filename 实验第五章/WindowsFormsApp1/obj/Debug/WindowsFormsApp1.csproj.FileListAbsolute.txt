@@ -1,0 +1,6 @@
+F:\C#\实验第五章\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\C#\实验第五章\WindowsFormsApp1\obj\Debug\实验第五章.Form1.resources
+F:\C#\实验第五章\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\C#\实验第五章\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\C#\实验第五章\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\C#\实验第五章\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

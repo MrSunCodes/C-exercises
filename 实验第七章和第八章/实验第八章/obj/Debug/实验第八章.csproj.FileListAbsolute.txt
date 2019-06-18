@@ -1,0 +1,15 @@
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章.csprojAssemblyReference.cache
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\MainWindow.g.cs
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\App.g.cs
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章_MarkupCompile.cache
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章_MarkupCompile.lref
+F:\C#\实验第七章和第八章\实验第八章\bin\Debug\实验第八章.exe.config
+F:\C#\实验第七章和第八章\实验第八章\bin\Debug\实验第八章.exe
+F:\C#\实验第七章和第八章\实验第八章\bin\Debug\实验第八章.pdb
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\MainWindow.baml
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章.g.resources
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章.Properties.Resources.resources
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章.csproj.GenerateResource.cache
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章.csproj.CoreCompileInputs.cache
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章.exe
+F:\C#\实验第七章和第八章\实验第八章\obj\Debug\实验第八章.pdb
