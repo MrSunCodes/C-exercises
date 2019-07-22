@@ -1,3 +1,3 @@
-# C--exercises
+# C#-exercises
 
-ÕâÊÇÎÒÔÚ2019ÄêÉÏ°ëÑ§ÄêÑ¡ÐÞµÄC#ÊµÑé¿ÎËù×öµÄÈ«²¿ÄÚÈÝ£¬ÉÏ´«µ½ÎÒµÄgithubÉÏÈ¥¡£
+è¿™æ˜¯æˆ‘åœ¨2019å¹´ä¸ŠåŠå­¦å¹´é€‰ä¿®çš„C#å®žéªŒè¯¾æ‰€åšçš„å…¨éƒ¨å†…å®¹ï¼Œä¸Šä¼ åˆ°æˆ‘çš„githubä¸ŠåŽ»ã€‚
